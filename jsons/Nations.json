@@ -2,9 +2,9 @@
 	{
 		"name": "Sparta",
 		"leaderName": "Leonidas I",
-		"adjective": ["Sparta"],
+		"adjective": ["Spartan"],
 		"startBias": ["Plain"],
-		"preferredVictoryType": "Dominion",
+		"preferredVictoryType": "Cultured",
 		
 		"startIntroPart1": "The 300 Hundred Spartans",
 		"startIntroPart2": "Leonidas I was a king of the Greek city-state of Sparta, and the 17th of the Agiad line, a dynasty which claimed descent from the mythical demigod Heracles. Leonidas I was a son of King Anaxandridas II. He succeeded his half-brother King Cleomenes I to the throne in c. 489 BC. His co-ruler was King Leotychidas.",
@@ -12,7 +12,7 @@
 		"declaringWar": "Good, then i shall die obedient to our law!","I wield the peak of a thousand spears!",
 		"attacked": "Come and get them!",
 		"defeated": "Those who lived by the sword shall die by the sword.",
-		"introduction": "As superior military strength of Greece herself, you are not worthy of our spears.",
+		"introduction": "As superior military strength of Greece herself, i am Leonidas I of the formidable army of the 300 Spartans.",
 		
 		"neutralHello": "Before you speak, Stranger, know that in Sparta everyone, even a king's messenger is held accountable for the words of his voice. Now what message do you bring?",
 		"neutralLetsHearIt": ["Say what you must.","You may begin.","I'm listening."],
@@ -27,10 +27,10 @@
 		"afterPeace": "Very well.","Do not start a war you cannot totally commit. I will be expecting your actions.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [17,17,17],
-		"innerColor": [355,300,300],
+		"outerColor": [234,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "The 300 Spartans",
-		"unique": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"unique": ["Great General provides double combat bonus", "[Great General] is earned [70]% faster"],
 		"cities": ["Sparta","Laconia","Messinia","Sellasia","Pellena","Kromnos"]
 	}
 ]
