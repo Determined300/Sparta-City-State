@@ -5,14 +5,12 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Pikeman",
 		"movement": 3,
-		"strength": 100,
-		"rangedStrength": 90,
-		"range": 1,
+		"strength": 25,
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"requiredResource": "Iron",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can build [Fort] improvements on tiles"],
 		"promotions": ["Shock I","Drill I"],
-		"attackSound": "phasers"
+		"attackSound": "metalhit"
 	}
 ]
