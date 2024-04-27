@@ -29,6 +29,7 @@
 
 		"outerColor": [17,17,17],
 		"innerColor": [355,300,300],
+		"uniqueName": "The 300 Spartans",
 		"unique": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
 		"cities": ["Sparta","Laconia","Messinia","Sellasia","Pellena","Kromnos"]
 	}
