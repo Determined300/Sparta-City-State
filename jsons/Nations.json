@@ -2,7 +2,7 @@
 	{
 		"name": "Sparta",
 		"leaderName": "Leonidas I",
-		"adjective": ["Leonidas"],
+		"adjective": ["Leonidas I"],
 		"startBias": ["Plain"],
 		"preferredVictoryType": "Dominion",
 		
@@ -27,12 +27,9 @@
 		"afterPeace": "Very well.","Do not start a war you cannot totally commit. I will be expecting your actions.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [17,17,17],
+		"innerColor": [355,300,300],
 		"unique": "THE 300 SPARTANS",
-		"cities": ["Sparta","Laconia","","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Sparta","Laconia","Messinia","Sellasia","Pellena","Kromnos"]
 	}
 ]
