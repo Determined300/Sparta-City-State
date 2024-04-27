@@ -10,7 +10,7 @@
 		"range": 1,
 		"cost": 100,
 		"requiredTech": "Civil Service",
-		"requiredResource": "None",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Shock I","Drill I"],
 		"attackSound": "phasers"
 	}
