@@ -4,14 +4,14 @@
 		"unitType": "Melee",
 		"uniqueTo": "Sparta",
 		"replaces": "Pikeman",
-		"movement": 2,
+		"movement": 3,
 		"strength": 200,
 		"rangedStrength": 90,
 		"range": 1,
 		"cost": 100,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"requiredTech": "Civil Service",
+		"requiredResource": "None",
+		"promotions": ["Logistics","Shock I","Drill I"],
 		"attackSound": "phasers"
 	}
 ]
