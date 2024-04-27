@@ -24,7 +24,7 @@
 		"hateNo": ["No."],
 		"hateYes": ["For now.","So be it.","As you wish."],
 		
-		"afterPeace": "Very well.","Do not start a war you cannot totally commit.",
+		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [234,0,0],
