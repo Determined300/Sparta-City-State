@@ -5,7 +5,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Pikeman",
 		"movement": 2,
-		"strength": 28,
+		"strength": 20,
 		"cost": 80,
 		"requiredTech": "Civil Service",
 		"obsoleteTech": "Metallurgy",
@@ -15,4 +15,25 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can build [Fort] improvements on tiles", "[+100]% to Flank Attack bonuses", "[+10]% Strength <when adjacent to a [Elite Hoplite] unit>"],
 		"attackSound": "metalhit"
 	},
+        {
+                "name": "Xiphos",
+		"unitType": "Melee",
+		"uniqueTo": "Sparta",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 40,
+		"requiredTech": ""
+
+
+
+
+
+
+
+
+
+
+
+
 ]
