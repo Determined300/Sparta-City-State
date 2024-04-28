@@ -3,7 +3,7 @@
 		"name": "Sparta",
 		"leaderName": "Leonidas I",
 		"adjective": ["Spartans"],
-		"startBias": ["Plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The 300 Spartans' Legacy",
@@ -32,7 +32,6 @@
 		"favouredReligion": "Christianity",
 		"uniqueName": "The 300 Spartans",
 		"unique": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
-		"uniqueText": "
 		"cities": ["Sparta","Laconia","Messinia","Sellasia","Pellena","Kromnos"]
 	}
 ]
