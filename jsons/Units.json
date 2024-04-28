@@ -37,6 +37,6 @@
 		"replaces": "Worker",
 	        "movement": 2,
 		"cost": 5,
-		"uniques": ["No movement cost on Hills", "May withdraw before melee ([60]%)"],	
+		"uniques": ["Can build [All] improvements on tiles", "Can build [Land] improvements on tiles", "Ignores terrain cost on [Hills]", "May withdraw before melee ([60]%)"],	
 	},
 ]
