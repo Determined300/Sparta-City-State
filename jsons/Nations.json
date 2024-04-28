@@ -27,8 +27,8 @@
 		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [234,0,0],
-		"innerColor": [255,255,255],
+		"outerColor": [185,55,30],
+		"innerColor": [205,200,25],
 		"favouredReligion": "Christianity",
 		"uniqueName": "The 300 Spartans",
 		"uniques": ["Great General provides [+30]% combat bonus", "[+50]% Production when constructing [Military] units [in capital]", "[+4 Culture] per [1] social policies adopted"],
