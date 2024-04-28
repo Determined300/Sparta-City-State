@@ -45,6 +45,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Greet General",
 		"movement": 2,
+		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+15]%
 	
 	
 	
