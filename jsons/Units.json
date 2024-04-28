@@ -27,6 +27,7 @@
 		"requiredResource": "Iron",
 		"obsoleteTech": "Steel",
 		"upgradesTo": "Longswordsman",
+		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
 
 
 
