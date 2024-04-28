@@ -36,7 +36,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Worker",
 	        "movement": 2,
-		"cost": 5,
+		"cost": 50,
 		"uniques": ["Can build [All] improvements on tiles", "Can build [Land] improvements on tiles", "Ignores terrain cost on [Hills]", "May withdraw before melee ([60]%)"],	
 	},
 ]
