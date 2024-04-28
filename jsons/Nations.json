@@ -29,8 +29,10 @@
 
 		"outerColor": [234,0,0],
 		"innerColor": [255,255,255],
+		"favouredReligion": "Christianity",
 		"uniqueName": "The 300 Spartans",
 		"unique": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster"],
+		"uniqueText": "
 		"cities": ["Sparta","Laconia","Messinia","Sellasia","Pellena","Kromnos"]
 	}
 ]
