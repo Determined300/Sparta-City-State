@@ -39,4 +39,25 @@
 		"cost": 50,
 		"uniques": ["Can build [All] improvements on tiles", "Can build [Land] improvements on tiles", "Ignores terrain cost", "May withdraw before melee ([60]%)"],	
 	},
+	{
+		"name": "Paidonomos",
+		"unitType": "Civilian",
+		"uniqueTo": "Sparta",
+		"replaces": "Greet General",
+		"movement": 2,
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	},
 ]
