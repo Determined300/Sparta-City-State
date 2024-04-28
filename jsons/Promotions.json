@@ -1,4 +1,5 @@
 [
    {
        "name": "Spartan Rage"
-       "uniques": ["[+20]% Strength <for 
+       "uniques": ["[+20]% Strength for [{Military} {Land}] units <when attacking>"],
+       "unitType": [
