@@ -23,7 +23,10 @@
 		"movement": 2,
 		"strength": 16,
 		"cost": 40,
-		"requiredTech": "Iron Working"
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
 
 
 
