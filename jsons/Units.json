@@ -30,4 +30,23 @@
 		"uniques": ["[+50]% Strength <vs [Ranged] units>"],
 		"attackSound": "metalhit"
 	},
+	{
+	        "name": "Helots",
+		"unitType": "Civilian",
+		"uniqueTo": "Sparta",
+		"replaces": "Worker",
+	        "movement": 2,
+		"cost": 5,
+		"uniques": ["No movement cost on [Hills]", "[+60]% chance to ]
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	},
 ]
