@@ -45,6 +45,10 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Great General",
 		"movement": 3,
-		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "Receives [Spartan Rage] bonus for [{Military} {Land}] units within [2] tiles", "Can instantly contruct a [Citadel] improvement <by cosuming this unit>", "Can be earned through combat <for [Land] units>", "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles", "Can instantly contruct a [Citadel] improvement <by cosuming this unit>",
+			    "Can be earned through combat <for [Land] units>",
+			    "Great Person - [War]",
+			    "Unbuildable",
+			    "Uncapturable"],
 	},
 ]
