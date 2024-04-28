@@ -14,5 +14,5 @@
 		"promotions": ["Shock I"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can build [Fort] improvements on tiles", "[+100]% to Flank Attack bonuses", "[+10]% Strength <when adjacent to a [Elite Hoplite] unit>"],
 		"attackSound": "metalhit"
-	}
+	},
 ]
