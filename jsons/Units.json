@@ -45,7 +45,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Greet General",
 		"movement": 2,
-		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+15]%
+		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+15]% [Spartan Rage] bonus for [{Military} {Land}] units within [2] tiles"],
 	
 	
 	
