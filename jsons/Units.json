@@ -9,7 +9,7 @@
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"requiredResource": "Iron",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can build [Fort] improvements on tiles"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can build [Fort] improvements on tiles", "[+100]% to Flank Attack bonuses"],
 		"promotions": ["Shock I","Drill I"],
 		"attackSound": "metalhit"
 	}
