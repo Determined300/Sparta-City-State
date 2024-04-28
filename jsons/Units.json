@@ -11,7 +11,7 @@
 		"obsoleteTech": "Metallurgy",
 		"upgradesTo": "Lancer",
 		"hurryCostModifier": 35,
-		"promotions": ["Shock I", "Spartan Rage"],
+		"promotions": ["Shock I"],
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "Can build [Fort] improvements on tiles", "[+100]% to Flank Attack bonuses", "[+10]% Strength <when adjacent to a [Elite Hoplite] unit>"],
 		"attackSound": "metalhit"
 	},
@@ -45,6 +45,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Great General",
 		"movement": 3,
+		"promotions": ["Spartan Rage"],
 		"uniques": ["Damage is ignored when determining unit Strength <for [All] units>", "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles", "Can instantly contruct a [Citadel] improvement <by cosuming this unit>",
 			    "Can be earned through combat <for [Land] units>",
 			    "Great Person - [War]",
