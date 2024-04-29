@@ -5,6 +5,6 @@
    {
    },
        "name": "Agoge",
-       "uniques": ["[+15]% Strength <for [Elite Hoplite] land units>", "[5] XP gained from combat"],  
+       "uniques": ["[+15]% Strength <for [Elite Hoplite] units>", "[5] XP gained from combat"],  
    },
 ]
