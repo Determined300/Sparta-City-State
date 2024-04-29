@@ -1,7 +1,7 @@
 [
    {
        "name": "Spartan Rage"
-       "uniques": ["[+20]% Strength <when attacking> <when adjacent to a {[Friendly]} {[Melee]} unit>"],
+       "uniques": ["[+20]% Strength <when attacking> <when adjacent to {[Friendly]} {[Melee]} units>"],
        "unitTypes": ["Sword","Gunpowder","Paratrooping","Mounted","Armored"],
    }
 ]
