@@ -1,7 +1,7 @@
 [
    {
        "name": "Spartan Rage",
-       "uniques": ["[+20]% Strength <when adjacent to [{Military} {Land}] units>"],
+       "uniques": ["[+20]% Strength <when adjacent to a [{Military} {Land}] unit>"],
    },
    {
        "name": "Agoge",
