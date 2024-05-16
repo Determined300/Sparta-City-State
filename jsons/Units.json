@@ -47,7 +47,7 @@
 		"movement": 4,
 		"cost": 110,
 		"promotions": ["Great Generals I"],
-		"uniques": ["Can move after attacking","[-33]% strength vs 
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "[-33]% strength <vs cities> <when attacking>"],
 		
 		
 		"name": "Paidonomos",
