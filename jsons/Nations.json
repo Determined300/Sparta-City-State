@@ -31,7 +31,7 @@
 		"innerColor": [205,200,25],
 		"favouredReligion": "Christianity",
 		"uniqueName": "The 300 Spartans",
-		"uniques": ["[+15]% Strength <for [Hoplite] units> <when defending>", "[+50]% Production when constructing [Military] units [in capital]", "[+1 Food] from every [Farm]", "[+4 Culture] per [1] social policies adopted",  "All newly-trained [Elite Hoplite] units [in capital] receive the [Agoge] promotion"],
+		"uniques": ["[+15]% Strength <for [Hoplite] units> <when defending>", "[+50]% Production when constructing [Military] units [in capital]", "[+1 Food] from every [Farm]", "[+4 Culture] per [1] social policies adopted",  "All newly-trained [Hoplite] units [in capital] receive the [Agoge] promotion"],
 		"cities": ["Sparta","Laconia","Messinia","Sellasia","Pellena","Kromnos"]
 	}
 ]
