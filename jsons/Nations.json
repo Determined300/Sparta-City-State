@@ -16,12 +16,12 @@
 		
 		"neutralHello": "Before you speak, Stranger, know that in Sparta everyone, even a king's messenger is held accountable for the words of his voice. Now what message do you bring?",
 		"neutralLetsHearIt": ["Say what you must.","You may begin.","I'm listening."],
-		"neutralNo": ["By the citizens of Sparta we humbly refuse.","Only a madman would refuse."],
+		"neutralNo": ["By the citizens of Sparta we humbly refuse."],
 		"neutralYes": ["Very well.","Of course, yes."],
 
 		"hateHello": "Why have you come here?",
 		"hateLetsHearIt": ["What is your intention, now!","Speak what you must!"],
-		"hateNo": ["No.","Come and get them!"],
+		"hateNo": ["No.","Come and get them!","Only a madman would refuse."],
 		"hateYes": ["For now.","So be it.","As you wish."],
 		
 		"afterPeace": "Very well.",
