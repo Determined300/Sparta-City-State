@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Elite Hoplite",
+		"name": "Hoplite",
 		"unitType": "Sword",
 		"uniqueTo": "Sparta",
 		"replaces": "Pikeman",
