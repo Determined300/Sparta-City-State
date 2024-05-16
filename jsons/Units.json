@@ -44,7 +44,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Sparta",
 		"replaces": "Knight",
-		"movement": 4,
+		"movement": 5,
 		"cost": 110,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
