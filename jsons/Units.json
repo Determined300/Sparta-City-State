@@ -40,6 +40,15 @@
 		"uniques": ["Can build [All] improvements on tiles", "Can build [Land] improvements on tiles", "Ignores terrain cost", "May withdraw before melee ([60]%)"],	
 	},
 	{
+	        "name": "Companion Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Sparta",
+		"replaces": "Knight",
+		"movement": 4,
+		"cost": 110,
+		"promotions": ["
+		
+		
 		"name": "Paidonomos",
 		"unitType": "Civilian",
 		"uniqueTo": "Sparta",
