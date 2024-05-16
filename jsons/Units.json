@@ -5,7 +5,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Pikeman",
 		"movement": 2,
-		"strength": 20,
+		"strength": 19,
 		"cost": 80,
 		"requiredTech": "Civil Service",
 		"obsoleteTech": "Metallurgy",
@@ -45,6 +45,7 @@
 		"uniqueTo": "Sparta",
 		"replaces": "Knight",
 		"movement": 5,
+		"strength": 22
 		"cost": 110,
 		"requiredTech": "Chivalry",
 	        "obsoleteTech": "Military Science",
